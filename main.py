@@ -1,6 +1,10 @@
 print("Jornada de dados")
 
-idade = 3
-sexo = "M"
+nome = "Jefferson Marques"
+idade = 42
+sexo = "Masculino"
 
-print(idade, sexo)
+print(nome)
+print(idade)
+print(sexo)
+
